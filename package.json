@@ -1,0 +1,29 @@
+{
+  "name": "header-responsive",
+  "version": "1.0.0",
+  "description": "header responsive by moddev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GEBASOFT/header-responsive.git"
+  },
+  "keywords": [
+    "header",
+    "nextjs",
+    "react",
+    "responsive",
+    "styled-components"
+  ],
+  "author": "moddev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GEBASOFT/header-responsive/issues"
+  },
+  "homepage": "https://github.com/GEBASOFT/header-responsive#readme",
+  "dependencies": {
+    "styled-components": "^5.3.5"
+  }
+}
